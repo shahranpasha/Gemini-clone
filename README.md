@@ -1,3 +1,7 @@
+TO SEE THIS PROJECT LIVE CLICK ON THE LINK GIVEN BELOW   ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
+
+https://gemini-cloneee.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
